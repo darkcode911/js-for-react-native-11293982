@@ -1,5 +1,6 @@
-Student ID: 11293982
+
 # js-for-react-native-11293982
+Student ID: 11293982
 Dcit 202 Assignment 1 
 Array Manipulation and User Profile Creation 
 
