@@ -23,4 +23,4 @@ The `formatArrayStrings` function takes two arrays:
  - `modifiedName`: the modified name. 
  - `id`: an auto-incremented ID starting from 1.
 
- his project demonstrates string formatting,basic array manipulation,  and object creation in JavaScript.
+ This project demonstrates string formatting,basic array manipulation,  and object creation in JavaScript.
